@@ -1,5 +1,3 @@
 # Hello-word
 
-Hi man
-
-look there！
+I'm franch 
